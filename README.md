@@ -36,14 +36,14 @@ We will be pulling our data from data source (GitHub), and we will be pushing th
 
 •	Dynamic Data Pipeline: There are three parameters changing for copying data activity:
 
- - Relative URL (base URL) changing
+   Relative URL (base URL) changing
    
- - Sink (destination) Folder name is changing
+   Sink (destination) Folder name is changing
    
- - Sink (destination) Filename itself changing
+   Sink (destination) Filename itself changing
    
-Created git.Json file where the links of these (parameters) were stored in the form of dictionary.
-Copy Activity, Foreach Loop, lookup Activity (if we want to look an output of our file)
+   Created git.Json file where the links of these (parameters) were stored in the form of dictionary.
+   Copy Activity, Foreach Loop, lookup Activity (if we want to look an output of our file)
 
 
 
