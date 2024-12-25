@@ -4,7 +4,7 @@
 
 Worked on End-to-End Azure Data Engineering project from scratch where I leverage powerful technologies like Azure Data Factory, Azure Data Lake, Databricks, Azure Synapse Analytics, and Apache Spark, along with managed identities, API connections, and many more.
 
-**What I learnt:**
+**What I have learnt:**
 
 •	How to design and implement a robust data pipeline using Azure Data Factory.
 
