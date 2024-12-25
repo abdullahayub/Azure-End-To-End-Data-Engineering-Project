@@ -73,6 +73,8 @@ We will be pulling our data from data source (GitHub), and we will be pushing th
 
 https://github.com/user-attachments/assets/72aa3811-00b5-405a-8933-1f73ea53e47d
 
+![silver](https://github.com/user-attachments/assets/fe4b02a1-fd42-44d4-8f28-4170d91a08a7)
+
 ### Phase 3:
 
 **Azure Synapse Analytics:**
