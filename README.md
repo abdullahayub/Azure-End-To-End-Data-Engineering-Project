@@ -45,6 +45,8 @@ We will be pulling our data from data source (GitHub), and we will be pushing th
    Created git.Json file where the links of these (parameters) were stored in the form of dictionary.
    Copy Activity, Foreach Loop, lookup Activity (if we want to look an output of our file)
 
+![pipeline](https://github.com/user-attachments/assets/4a68411a-808f-486e-96d1-181fdf9fc01a)
+
 ### Phase 2:
 
 **Azure Databricks:** In phase2 of the project we will pick data from bronze layer and Ingest data into silver layer with some transformations on to the data tables.
