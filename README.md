@@ -87,6 +87,9 @@ https://github.com/user-attachments/assets/72aa3811-00b5-405a-8933-1f73ea53e47d
 
 •	Deploy azure synapse analytics with Power BI desktop, build the connectivity, copy the SQL endpoint, pull the data tables into Power BI, and then generate the report.
 
+### Azure Synapse Analytics Video
+
+https://github.com/user-attachments/assets/da7f8f2f-ce13-4851-90d1-44a66939a793
 
 
 
