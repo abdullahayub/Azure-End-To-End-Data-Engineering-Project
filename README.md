@@ -47,6 +47,8 @@ We will be pulling our data from data source (GitHub), and we will be pushing th
 
 ![pipeline](https://github.com/user-attachments/assets/4a68411a-808f-486e-96d1-181fdf9fc01a)
 
+![pipeline2](https://github.com/user-attachments/assets/87d603bf-5e2c-4f48-9669-2808eeb1e9cb)
+
 ### Phase 2:
 
 **Azure Databricks:** In phase2 of the project we will pick data from bronze layer and Ingest data into silver layer with some transformations on to the data tables.
