@@ -67,6 +67,10 @@ We will be pulling our data from data source (GitHub), and we will be pushing th
 
 •	Produce charts on Notebook by applying aggregate functions on sales dataset like Group By.
 
+### Databricks Notebook video
+
+https://github.com/user-attachments/assets/72aa3811-00b5-405a-8933-1f73ea53e47d
+
 ### Phase 3:
 
 **Azure Synapse Analytics:**
