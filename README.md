@@ -20,6 +20,10 @@ We used Medallion Architecture (Layers), it’s a kind of approach we followed i
 
 This data is available on Kaggle, it was full of tables, and this gives you an advantage when you showcase your project that involved so many tables, because they know that this person has applied so many Joins, Lookups while completing this project. This dataset was past three years of sales data 2015, 2016, 2017. Adventure Works is an ideal data set if you want to work with end-to-end solution because we can perform so many joins, transformations, and we can do a lot more with these tables. That’s why I picked this dataset. In this dataset we have (2 Fact tables (Sales, returns), and 6-dimension tables)
 
+### Microsoft Azure Account Home Page
+
+![azure](https://github.com/user-attachments/assets/137c7b40-b1f3-469b-b5d9-622c0bd781de)
+
 ### Phase 1:
 
 We will be pulling our data from data source (GitHub), and we will be pushing this data to our Data Lake storage account (bronze zone) this process known as (Ingesting of the Data dynamically).
